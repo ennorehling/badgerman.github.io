@@ -4,7 +4,7 @@
   <title><![CDATA[Category: photos | Irgendwo]]></title>
   <link href="http://badgerman.github.io/blog/categories/photos/atom.xml" rel="self"/>
   <link href="http://badgerman.github.io/"/>
-  <updated>2014-03-10T04:29:26+01:00</updated>
+  <updated>2014-03-10T07:20:05+01:00</updated>
   <id>http://badgerman.github.io/</id>
   <author>
     <name><![CDATA[Anke]]></name>
@@ -35,7 +35,25 @@ als wäre ich im Urlaub gewesen.</p>
     <link href="http://badgerman.github.io/blog/2014/03/03/more-pictures-from-north-berwick/"/>
     <updated>2014-03-03T13:00:00+01:00</updated>
     <id>http://badgerman.github.io/blog/2014/03/03/more-pictures-from-north-berwick</id>
-    <content type="html"><![CDATA[<p><img class="fancybox" src="/images/photos/nb2.JPG"></p>
+    <content type="html"><![CDATA[<h2>simple remote image</h2>
+
+<p>To put a fancy frame around an image that is hosted elsewhere, use
+this syntax:</p>
+
+<p><img class="fancybox <a" src="href="http://2.bp.blogspot.com/-a-yA1nvc0Js/Uw-1hPF_AlI/AAAAAAAADCA/IPdCXZSP3XA/s1600/nb2.JPG">http://2.bp.blogspot.com/-a-yA1nvc0Js/Uw-1hPF_AlI/AAAAAAAADCA/IPdCXZSP3XA/s1600/nb2.JPG</a>"></p>
+
+<!-- more -->
+
+
+<h2>photo plugin</h2>
+
+<p><a href="http://i.imgur.com/<a" class="fancybox" title=""><img src="http://i.imgur.com/href="http://i.imgur.com/IeU2orc.jpg">http://i.imgur.com/IeU2orc.jpg</a>" alt="" /></a></p>
+
+<h2>Photo gallery</h2>
+
+<p><ul class="gallery">
+<li><a href="http://i.imgur.com/hB8fE40.jpg" class="fancybox" rel="gallery-e0842643f7758437508152a221a26da2" title="this is alt text"><img src="http://i.imgur.com/hB8fE40m.jpg" alt="this is alt text" /></a></li><li><a href="http://i.imgur.com/VBcAZF5.jpg" class="fancybox" rel="gallery-e0842643f7758437508152a221a26da2" title="alter"><img src="http://i.imgur.com/VBcAZF5m.jpg" alt="alter" /></a></li>
+</ul></p>
 ]]></content>
   </entry>
   
