@@ -4,7 +4,7 @@
   <title><![CDATA[Category: photos | Irgendwo]]></title>
   <link href="http://badgerman.github.io/blog/categories/photos/atom.xml" rel="self"/>
   <link href="http://badgerman.github.io/"/>
-  <updated>2014-03-10T07:20:05+01:00</updated>
+  <updated>2014-03-10T07:23:47+01:00</updated>
   <id>http://badgerman.github.io/</id>
   <author>
     <name><![CDATA[Anke]]></name>
@@ -52,7 +52,7 @@ this syntax:</p>
 <h2>Photo gallery</h2>
 
 <p><ul class="gallery">
-<li><a href="http://i.imgur.com/hB8fE40.jpg" class="fancybox" rel="gallery-e0842643f7758437508152a221a26da2" title="this is alt text"><img src="http://i.imgur.com/hB8fE40m.jpg" alt="this is alt text" /></a></li><li><a href="http://i.imgur.com/VBcAZF5.jpg" class="fancybox" rel="gallery-e0842643f7758437508152a221a26da2" title="alter"><img src="http://i.imgur.com/VBcAZF5m.jpg" alt="alter" /></a></li>
+<li><a href="http://i.imgur.com/hB8fE40.jpg" class="fancybox" rel="gallery-e0842643f7758437508152a221a26da2" title="this is alt text"><img src="http://i.imgur.com/hB8fE40_m.jpg" alt="this is alt text" /></a></li><li><a href="http://i.imgur.com/VBcAZF5.jpg" class="fancybox" rel="gallery-e0842643f7758437508152a221a26da2" title="alter"><img src="http://i.imgur.com/VBcAZF5_m.jpg" alt="alter" /></a></li>
 </ul></p>
 ]]></content>
   </entry>
@@ -64,8 +64,7 @@ this syntax:</p>
     <id>http://badgerman.github.io/blog/2014/02/07/flickr-demo</id>
     <content type="html"><![CDATA[<p>I installed a plugin for Flickr. It can embed photos and sets.</p>
 
-<p>Check out these tags, and <a href="https://github.com/neilk/octopress-flickr#how-to-use-the-tags">learn how to use
-them</a>:</p>
+<p>Check out these tags, and <a href="https://github.com/neilk/octopress-flickr#how-to-use-the-tags">learn how to use them</a>:</p>
 
 <!-- more -->
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: octopress | Irgendwo]]></title>
   <link href="http://badgerman.github.io/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://badgerman.github.io/"/>
-  <updated>2014-03-10T07:20:05+01:00</updated>
+  <updated>2014-03-10T07:23:47+01:00</updated>
   <id>http://badgerman.github.io/</id>
   <author>
     <name><![CDATA[Anke]]></name>
@@ -20,8 +20,7 @@
     <id>http://badgerman.github.io/blog/2014/02/07/flickr-demo</id>
     <content type="html"><![CDATA[<p>I installed a plugin for Flickr. It can embed photos and sets.</p>
 
-<p>Check out these tags, and <a href="https://github.com/neilk/octopress-flickr#how-to-use-the-tags">learn how to use
-them</a>:</p>
+<p>Check out these tags, and <a href="https://github.com/neilk/octopress-flickr#how-to-use-the-tags">learn how to use them</a>:</p>
 
 <!-- more -->
 
