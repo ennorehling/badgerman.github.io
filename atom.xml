@@ -4,7 +4,7 @@
   <title><![CDATA[Irgendwo]]></title>
   <link href="http://badgerman.github.io/atom.xml" rel="self"/>
   <link href="http://badgerman.github.io/"/>
-  <updated>2014-03-10T04:13:43+01:00</updated>
+  <updated>2014-03-10T04:29:26+01:00</updated>
   <id>http://badgerman.github.io/</id>
   <author>
     <name><![CDATA[Anke]]></name>
@@ -33,6 +33,15 @@ als wäre ich im Urlaub gewesen.</p>
 <a href="http://badgerman.github.io/images/galleries/fortrose-2014-03-03/DSC_0101.JPG" rel="shadowbox" title="DSC_0101"><img src="http://badgerman.github.io/images/galleries/fortrose-2014-03-03/thumbs/DSC_0101.JPG" /></a></p>
 
 <p>Traumhaus am Meer &ndash; auf meiner Wunschliste.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[More pictures from North Berwick]]></title>
+    <link href="http://badgerman.github.io/blog/2014/03/03/more-pictures-from-north-berwick/"/>
+    <updated>2014-03-03T13:00:00+01:00</updated>
+    <id>http://badgerman.github.io/blog/2014/03/03/more-pictures-from-north-berwick</id>
+    <content type="html"><![CDATA[<p><img class="fancybox" src="http://badgerman.github.io/images/photos/nb2.JPG"></p>
 ]]></content>
   </entry>
   
