@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Irgendwo]]></title>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2014-03-10T03:37:09+01:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Anke]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Urlaub]]></title>
+    <link href="http://yoursite.com/blog/2014/03/03/urlaub/"/>
+    <updated>2014-03-03T13:00:00+01:00</updated>
+    <id>http://yoursite.com/blog/2014/03/03/urlaub</id>
+    <content type="html"><![CDATA[<p>Freitag bis Sonntag in Fortrose &ndash; und so viel erlebt, es fühlt sich an
+als wäre ich im Urlaub gewesen.</p>
+
+<!-- more -->
+
+
+<p><a href="http://yoursite.com/images/galleries/fortrose-2014-03-03/DSC_0040.JPG" rel="shadowbox" title="DSC_0040"><img src="http://yoursite.com/images/galleries/fortrose-2014-03-03/thumbs/DSC_0040.JPG" /></a>
+<a href="http://yoursite.com/images/galleries/fortrose-2014-03-03/DSC_0041.JPG" rel="shadowbox" title="DSC_0041"><img src="http://yoursite.com/images/galleries/fortrose-2014-03-03/thumbs/DSC_0041.JPG" /></a>
+<a href="http://yoursite.com/images/galleries/fortrose-2014-03-03/DSC_0062.JPG" rel="shadowbox" title="DSC_0062"><img src="http://yoursite.com/images/galleries/fortrose-2014-03-03/thumbs/DSC_0062.JPG" /></a>
+<a href="http://yoursite.com/images/galleries/fortrose-2014-03-03/DSC_0068.JPG" rel="shadowbox" title="DSC_0068"><img src="http://yoursite.com/images/galleries/fortrose-2014-03-03/thumbs/DSC_0068.JPG" /></a>
+<a href="http://yoursite.com/images/galleries/fortrose-2014-03-03/DSC_0096.JPG" rel="shadowbox" title="DSC_0096"><img src="http://yoursite.com/images/galleries/fortrose-2014-03-03/thumbs/DSC_0096.JPG" /></a>
+<a href="http://yoursite.com/images/galleries/fortrose-2014-03-03/DSC_0100.JPG" rel="shadowbox" title="DSC_0100"><img src="http://yoursite.com/images/galleries/fortrose-2014-03-03/thumbs/DSC_0100.JPG" /></a>
+<a href="http://yoursite.com/images/galleries/fortrose-2014-03-03/DSC_0101.JPG" rel="shadowbox" title="DSC_0101"><img src="http://yoursite.com/images/galleries/fortrose-2014-03-03/thumbs/DSC_0101.JPG" /></a></p>
+
+<p>Traumhaus am Meer &ndash; auf meiner Wunschliste.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Flickr Test]]></title>
+    <link href="http://yoursite.com/blog/2014/02/07/flickr-demo/"/>
+    <updated>2014-02-07T20:00:00+01:00</updated>
+    <id>http://yoursite.com/blog/2014/02/07/flickr-demo</id>
+    <content type="html"><![CDATA[<p>I installed a plugin for Flickr. It can embed photos and sets.</p>
+
+<p>Check out these tags, and <a href="https://github.com/neilk/octopress-flickr#how-to-use-the-tags">learn how to use
+them</a>:</p>
+
+<!-- more -->
+
+
+<h2>Flickr images</h2>
+
+<p>Two examples of embedded images:</p>
+
+<p><figure class="flickr-thumbnail center" style="width: 180px;"><a href="http://farm4.staticflickr.com/3140/2947909854_98889c11d8_z.jpg" class="fancybox" data-title-id="flickr-photo-2947909854" data-media="photo"><img src="http://farm4.staticflickr.com/3140/2947909854_98889c11d8_m.jpg" title="DSC07084" style="width: 180px; height: 240px;"/></a><figcaption id="flickr-photo-2947909854"><h1><a class="flickr-link" href="http://www.flickr.com/photos/31480532@N06/2947909854">DSC07084</a> by Zebrafink</h1><div class="description">This is a medium picture of a Zebrafink</div></figcaption></figure>
+<figure class="flickr-thumbnail center" style="display: inline-block;"><a href="http://farm4.staticflickr.com/3001/2947909284_86a67218f8_b.jpg" class="fancybox" data-title-id="flickr-photo-2947909284" data-media="photo"><img src="http://farm4.staticflickr.com/3001/2947909284_86a67218f8_z.jpg" title="DSC07082" style=""/></a><figcaption id="flickr-photo-2947909284"><h1><a class="flickr-link" href="http://www.flickr.com/photos/31480532@N06/2947909284">DSC07082</a> by Zebrafink</h1><div class="description">This is a large picture of a Zebrafink</div></figcaption></figure></p>
+
+<h2>Flickr sets</h2>
+
+<p>One example of medium-size set:</p>
+
+<p><section class="flickr-set"><figure class="flickr-thumbnail" style="width: 240px;"><a href="http://farm2.staticflickr.com/1183/632126926_c87902f836_o.png" class="fancybox" data-title-id="flickr-photo-632126926" data-media="photo" rel="flickr-set-72157600500316094"><img src="http://farm2.staticflickr.com/1183/632126926_7a023ce2a3_m.jpg" title="School Project &quot;Battlemaster&quot;" style="width: 240px; height: 238px;"/></a><figcaption id="flickr-photo-632126926"><h1><a class="flickr-link" href="http://www.flickr.com/photos/51035648958@N01/632126926">School Project &ldquo;Battlemaster&rdquo;</a> by enno</h1><div class="description">In 1991, half a lifetime ago, our highschool computer science course decided to write a network game. Within a week, we had 3D graphics, models and animations, soldered parallel cables and four dual-display cockpits.</p>
+
+<p>The technology was 386 and 486 PCs with standard VGA cards which we ran in a rather unusual 360x320x8 resolution (The aspect ratio of these shots is off, in case you wondered). All sound was played through an Amiga 500 that was connected through a second parallel port, because we didn&rsquo;t have Soundblaster cards.</div></figcaption></figure><figure class="flickr-thumbnail" style="width: 240px;"><a href="http://farm2.staticflickr.com/1273/632126812_3b94611260_o.png" class="fancybox" data-title-id="flickr-photo-632126812" data-media="photo" rel="flickr-set-72157600500316094"><img src="http://farm2.staticflickr.com/1273/632126812_1c86cabc4f_m.jpg" title="School Project &quot;Battlemaster&quot;" style="width: 240px; height: 238px;"/></a><figcaption id="flickr-photo-632126812"><h1><a class="flickr-link" href="http://www.flickr.com/photos/51035648958@N01/632126812">School Project &ldquo;Battlemaster&rdquo;</a> by enno</h1><div class="description">In 1991, half a lifetime ago, our highschool computer science course decided to write a network game. Within a week, we had 3D graphics, models and animations, soldered parallel cables and four dual-display cockpits.</p>
+
+<p>It took some time to get these screenshots because everything was written in a mix of BP 7.0 and assembly, and only ran under DOS.</div></figcaption></figure><figure class="flickr-thumbnail" style="width: 240px;"><a href="http://farm2.staticflickr.com/1317/631259419_12395e19be_o.png" class="fancybox" data-title-id="flickr-photo-631259419" data-media="photo" rel="flickr-set-72157600500316094"><img src="http://farm2.staticflickr.com/1317/631259419_42326042cd_m.jpg" title="Splash screen" style="width: 240px; height: 238px;"/></a><figcaption id="flickr-photo-631259419"><h1><a class="flickr-link" href="http://www.flickr.com/photos/51035648958@N01/631259419">Splash screen</a> by enno</h1><div class="description">In 1991, half a lifetime ago, our highschool computer science course decided to write a network game. Within a week, we had 3D graphics, models and animations, soldered parallel cables and four dual-display cockpits.</p>
+
+<p>The splash screen did a camera rotation around an animated walking mech. The mechs&#8217; models were created on a piece of millimeter drawing paper, and all vertex and index lists typed into a text editor by hand. When artists complain about crappy pipelines, I like to tell them about this.</p>
+
+<p>Even worse, animations had to be calculated. We had a simple system of joints, but keyframe animation still required a lot of hacking on a calculator and a lot of trigonometry.</div></figcaption></figure><figure class="flickr-thumbnail" style="width: 240px;"><a href="http://farm2.staticflickr.com/1316/632126620_0f975a380e_o.png" class="fancybox" data-title-id="flickr-photo-632126620" data-media="photo" rel="flickr-set-72157600500316094"><img src="http://farm2.staticflickr.com/1316/632126620_72f82eee1d_m.jpg" title="Marauders" style="width: 240px; height: 238px;"/></a><figcaption id="flickr-photo-632126620"><h1><a class="flickr-link" href="http://www.flickr.com/photos/51035648958@N01/632126620">Marauders</a> by enno</h1><div class="description">In 1991, half a lifetime ago, our highschool computer science course decided to write a network game. Within a week, we had 3D graphics, models and animations, soldered parallel cables and four dual-display cockpits.</p>
+
+<p>We actually had a third model, but it had 150 polygons and I think it wasn&rsquo;t fully animated when we reached our presentation deadline &ndash; I don&rsquo;t have a screenshot but I think I have the original paper drawings somewhere.</div></figcaption></figure><figure class="flickr-thumbnail" style="width: 240px;"><a href="http://farm2.staticflickr.com/1365/631259225_45c48abf0d_o.png" class="fancybox" data-title-id="flickr-photo-631259225" data-media="photo" rel="flickr-set-72157600500316094"><img src="http://farm2.staticflickr.com/1365/631259225_4012dbd3eb_m.jpg" title="Maximum Polycount" style="width: 240px; height: 238px;"/></a><figcaption id="flickr-photo-631259225"><h1><a class="flickr-link" href="http://www.flickr.com/photos/51035648958@N01/631259225">Maximum Polycount</a> by enno</h1><div class="description">In 1991, half a lifetime ago, our highschool computer science course decided to write a network game. Within a week, we had 3D graphics, models and animations, soldered parallel cables and four dual-display cockpits.</p>
+
+<p>Our mech models were inspired by Battletech, although with very few polygons. To show 4 mechs at the same time and some &quot;architecture&quot; we limited ourselves to less than 100 polygons per mech, effectively drawing at most 350 triangles.</div></figcaption></figure></section></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Your First Post]]></title>
+    <link href="http://yoursite.com/blog/2014/02/07/your-first-post/"/>
+    <updated>2014-02-07T07:24:00+01:00</updated>
+    <id>http://yoursite.com/blog/2014/02/07/your-first-post</id>
+    <content type="html"><![CDATA[<p>Congratulations! If you are reading this page, it means that your blog
+installation was successful.</p>
+
+<!-- more -->
+
+
+<h2>Want to write some articles?</h2>
+
+<p>Copy the file <code>2014-03-09-your-first-post.markdown</code>, update the
+title, date and categories in the header, and start writing!</p>
+
+<p>I recommend <a href="http://www.markdownpad.com/">MarkdownPad</a> for editing.
+You should read up on <a href="http://daringfireball.net/projects/markdown/syntax">Markdown
+Syntax</a> to learn
+about the basic formatting that this software supports.</p>
+]]></content>
+  </entry>
+  
+</feed>
