@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Irgendwo]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2014-03-10T03:37:09+01:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://badgerman.github.io/atom.xml" rel="self"/>
+  <link href="http://badgerman.github.io/"/>
+  <updated>2014-03-10T04:13:43+01:00</updated>
+  <id>http://badgerman.github.io/</id>
   <author>
     <name><![CDATA[Anke]]></name>
     
@@ -15,22 +15,22 @@
   
   <entry>
     <title type="html"><![CDATA[Urlaub]]></title>
-    <link href="http://yoursite.com/blog/2014/03/03/urlaub/"/>
+    <link href="http://badgerman.github.io/blog/2014/03/03/urlaub/"/>
     <updated>2014-03-03T13:00:00+01:00</updated>
-    <id>http://yoursite.com/blog/2014/03/03/urlaub</id>
+    <id>http://badgerman.github.io/blog/2014/03/03/urlaub</id>
     <content type="html"><![CDATA[<p>Freitag bis Sonntag in Fortrose &ndash; und so viel erlebt, es fühlt sich an
 als wäre ich im Urlaub gewesen.</p>
 
 <!-- more -->
 
 
-<p><a href="http://yoursite.com/images/galleries/fortrose-2014-03-03/DSC_0040.JPG" rel="shadowbox" title="DSC_0040"><img src="http://yoursite.com/images/galleries/fortrose-2014-03-03/thumbs/DSC_0040.JPG" /></a>
-<a href="http://yoursite.com/images/galleries/fortrose-2014-03-03/DSC_0041.JPG" rel="shadowbox" title="DSC_0041"><img src="http://yoursite.com/images/galleries/fortrose-2014-03-03/thumbs/DSC_0041.JPG" /></a>
-<a href="http://yoursite.com/images/galleries/fortrose-2014-03-03/DSC_0062.JPG" rel="shadowbox" title="DSC_0062"><img src="http://yoursite.com/images/galleries/fortrose-2014-03-03/thumbs/DSC_0062.JPG" /></a>
-<a href="http://yoursite.com/images/galleries/fortrose-2014-03-03/DSC_0068.JPG" rel="shadowbox" title="DSC_0068"><img src="http://yoursite.com/images/galleries/fortrose-2014-03-03/thumbs/DSC_0068.JPG" /></a>
-<a href="http://yoursite.com/images/galleries/fortrose-2014-03-03/DSC_0096.JPG" rel="shadowbox" title="DSC_0096"><img src="http://yoursite.com/images/galleries/fortrose-2014-03-03/thumbs/DSC_0096.JPG" /></a>
-<a href="http://yoursite.com/images/galleries/fortrose-2014-03-03/DSC_0100.JPG" rel="shadowbox" title="DSC_0100"><img src="http://yoursite.com/images/galleries/fortrose-2014-03-03/thumbs/DSC_0100.JPG" /></a>
-<a href="http://yoursite.com/images/galleries/fortrose-2014-03-03/DSC_0101.JPG" rel="shadowbox" title="DSC_0101"><img src="http://yoursite.com/images/galleries/fortrose-2014-03-03/thumbs/DSC_0101.JPG" /></a></p>
+<p><a href="http://badgerman.github.io/images/galleries/fortrose-2014-03-03/DSC_0040.JPG" rel="shadowbox" title="DSC_0040"><img src="http://badgerman.github.io/images/galleries/fortrose-2014-03-03/thumbs/DSC_0040.JPG" /></a>
+<a href="http://badgerman.github.io/images/galleries/fortrose-2014-03-03/DSC_0041.JPG" rel="shadowbox" title="DSC_0041"><img src="http://badgerman.github.io/images/galleries/fortrose-2014-03-03/thumbs/DSC_0041.JPG" /></a>
+<a href="http://badgerman.github.io/images/galleries/fortrose-2014-03-03/DSC_0062.JPG" rel="shadowbox" title="DSC_0062"><img src="http://badgerman.github.io/images/galleries/fortrose-2014-03-03/thumbs/DSC_0062.JPG" /></a>
+<a href="http://badgerman.github.io/images/galleries/fortrose-2014-03-03/DSC_0068.JPG" rel="shadowbox" title="DSC_0068"><img src="http://badgerman.github.io/images/galleries/fortrose-2014-03-03/thumbs/DSC_0068.JPG" /></a>
+<a href="http://badgerman.github.io/images/galleries/fortrose-2014-03-03/DSC_0096.JPG" rel="shadowbox" title="DSC_0096"><img src="http://badgerman.github.io/images/galleries/fortrose-2014-03-03/thumbs/DSC_0096.JPG" /></a>
+<a href="http://badgerman.github.io/images/galleries/fortrose-2014-03-03/DSC_0100.JPG" rel="shadowbox" title="DSC_0100"><img src="http://badgerman.github.io/images/galleries/fortrose-2014-03-03/thumbs/DSC_0100.JPG" /></a>
+<a href="http://badgerman.github.io/images/galleries/fortrose-2014-03-03/DSC_0101.JPG" rel="shadowbox" title="DSC_0101"><img src="http://badgerman.github.io/images/galleries/fortrose-2014-03-03/thumbs/DSC_0101.JPG" /></a></p>
 
 <p>Traumhaus am Meer &ndash; auf meiner Wunschliste.</p>
 ]]></content>
@@ -38,9 +38,9 @@ als wäre ich im Urlaub gewesen.</p>
   
   <entry>
     <title type="html"><![CDATA[Flickr Test]]></title>
-    <link href="http://yoursite.com/blog/2014/02/07/flickr-demo/"/>
+    <link href="http://badgerman.github.io/blog/2014/02/07/flickr-demo/"/>
     <updated>2014-02-07T20:00:00+01:00</updated>
-    <id>http://yoursite.com/blog/2014/02/07/flickr-demo</id>
+    <id>http://badgerman.github.io/blog/2014/02/07/flickr-demo</id>
     <content type="html"><![CDATA[<p>I installed a plugin for Flickr. It can embed photos and sets.</p>
 
 <p>Check out these tags, and <a href="https://github.com/neilk/octopress-flickr#how-to-use-the-tags">learn how to use
@@ -78,9 +78,9 @@ them</a>:</p>
   
   <entry>
     <title type="html"><![CDATA[Your First Post]]></title>
-    <link href="http://yoursite.com/blog/2014/02/07/your-first-post/"/>
+    <link href="http://badgerman.github.io/blog/2014/02/07/your-first-post/"/>
     <updated>2014-02-07T07:24:00+01:00</updated>
-    <id>http://yoursite.com/blog/2014/02/07/your-first-post</id>
+    <id>http://badgerman.github.io/blog/2014/02/07/your-first-post</id>
     <content type="html"><![CDATA[<p>Congratulations! If you are reading this page, it means that your blog
 installation was successful.</p>
 

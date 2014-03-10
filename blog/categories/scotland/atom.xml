@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: scotland | Irgendwo]]></title>
-  <link href="http://yoursite.com/blog/categories/scotland/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2014-03-10T03:37:09+01:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://badgerman.github.io/blog/categories/scotland/atom.xml" rel="self"/>
+  <link href="http://badgerman.github.io/"/>
+  <updated>2014-03-10T04:13:43+01:00</updated>
+  <id>http://badgerman.github.io/</id>
   <author>
     <name><![CDATA[Anke]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Urlaub]]></title>
-    <link href="http://yoursite.com/blog/2014/03/03/urlaub/"/>
+    <link href="http://badgerman.github.io/blog/2014/03/03/urlaub/"/>
     <updated>2014-03-03T13:00:00+01:00</updated>
-    <id>http://yoursite.com/blog/2014/03/03/urlaub</id>
+    <id>http://badgerman.github.io/blog/2014/03/03/urlaub</id>
     <content type="html"><![CDATA[<p>Freitag bis Sonntag in Fortrose &ndash; und so viel erlebt, es fühlt sich an
 als wäre ich im Urlaub gewesen.</p>
 
